@@ -1,0 +1,3 @@
+aaaa
+af fcn.main @ fcn.004529d0
+af fcn.ask_for_flag @ fcn.004527c0
